@@ -1,0 +1,8 @@
+sentencepiece
+jieba 
+colorlog 
+colorama 
+seqeval
+regex
+tqdm
+attrdict
